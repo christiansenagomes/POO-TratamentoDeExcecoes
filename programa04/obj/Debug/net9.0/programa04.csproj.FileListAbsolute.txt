@@ -1,0 +1,14 @@
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\bin\Debug\net9.0\programa04.exe
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\bin\Debug\net9.0\programa04.deps.json
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\bin\Debug\net9.0\programa04.runtimeconfig.json
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\bin\Debug\net9.0\programa04.dll
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\bin\Debug\net9.0\programa04.pdb
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.AssemblyInfoInputs.cache
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.AssemblyInfo.cs
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.csproj.CoreCompileInputs.cache
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.dll
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\refint\programa04.dll
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.pdb
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\programa04.genruntimeconfig.cache
+C:\Users\tongu\Desktop\PUC Atividades\Terceiro Semestre\POO\Tratamento de Exceções - Aula 12\programa04\obj\Debug\net9.0\ref\programa04.dll

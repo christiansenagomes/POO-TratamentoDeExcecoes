@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tongu\\Desktop\\PUC Atividades\\Terceiro Semestre\\POO\\Tratamento de Exce\u00E7\u00F5es - Aula 12\\programa01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D826F4-958C-A3C4-3213-314418281D72}|programa01.csproj|c:\\users\\tongu\\desktop\\puc atividades\\terceiro semestre\\poo\\tratamento de exce\u00E7\u00F5es - aula 12\\programa01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D826F4-958C-A3C4-3213-314418281D72}|programa01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D826F4-958C-A3C4-3213-314418281D72}|programa01.csproj|c:\\users\\tongu\\desktop\\puc atividades\\terceiro semestre\\poo\\tratamento de exce\u00E7\u00F5es - aula 12\\programa01\\numhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D826F4-958C-A3C4-3213-314418281D72}|programa01.csproj|solutionrelative:numhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\tongu\\Desktop\\PUC Atividades\\Terceiro Semestre\\POO\\Tratamento de Exce\u00E7\u00F5es - Aula 12\\programa01\\NumHelper.cs",
+              "RelativeDocumentMoniker": "NumHelper.cs",
+              "ToolTip": "C:\\Users\\tongu\\Desktop\\PUC Atividades\\Terceiro Semestre\\POO\\Tratamento de Exce\u00E7\u00F5es - Aula 12\\programa01\\NumHelper.cs",
+              "RelativeToolTip": "NumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:48:38.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tongu\\Desktop\\PUC Atividades\\Terceiro Semestre\\POO\\Tratamento de Exce\u00E7\u00F5es - Aula 12\\programa01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tongu\\Desktop\\PUC Atividades\\Terceiro Semestre\\POO\\Tratamento de Exce\u00E7\u00F5es - Aula 12\\programa01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T16:48:37.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
