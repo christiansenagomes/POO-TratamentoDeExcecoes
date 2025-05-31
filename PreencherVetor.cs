@@ -1,8 +1,8 @@
-namespace PreencherVetor;
+namespace Programa03;
 
-class PreencherVetor
+public static class PreencherVetor
 {
-    static void Main(string[] args)
+    public static void Rodar()
     {
         int[] vetor = new int[10];
 

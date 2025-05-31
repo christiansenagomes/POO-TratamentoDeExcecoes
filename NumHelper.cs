@@ -1,4 +1,4 @@
-namespace NumPrimo;
+namespace Programa01;
 public static class NumHelper
 {
     public static bool IsPrime(int num)

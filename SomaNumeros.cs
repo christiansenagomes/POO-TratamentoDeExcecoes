@@ -1,10 +1,8 @@
-using System.Net.Http.Headers;
+namespace Programa04;
 
-namespace SomaNumeros;
-
-class SomaNumeros
+public static class SomaNumeros
 {
-    static void StatusSoma(double soma, int qntdNumeros)
+    public static void StatusSoma(double soma, int qntdNumeros)
     {
         double media;
         try
@@ -28,7 +26,7 @@ class SomaNumeros
         Console.WriteLine($"Média dos números somados: {media}");
         Console.ResetColor();
     }
-    static void Main(string[] args)
+    public static void Rodar()
     {
         double soma = 0;
         int qntdNumeros = 0;

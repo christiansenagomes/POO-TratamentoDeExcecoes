@@ -1,8 +1,8 @@
-namespace Calculadora;
+namespace Programa02;
 
-class Calculadora
+public static class Calculadora
 {
-    static void Main(string[] args)
+    public static void Rodar()
     {
         string[] operacoes = ["soma", "multiplicação", "subtração", "divisão", "módulo"];
 

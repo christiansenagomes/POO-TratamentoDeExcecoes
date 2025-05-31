@@ -1,4 +1,4 @@
-namespace Calculadora;
+namespace Programa02;
 public static class CalculadoraHelper
 {
     public static double Soma(double num1, double num2)

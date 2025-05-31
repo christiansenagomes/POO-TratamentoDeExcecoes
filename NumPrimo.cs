@@ -1,8 +1,8 @@
-namespace NumPrimo;
+namespace Programa01;
 
-class NumPrimo
+public static class NumPrimo
 {
-    static void Main(string[] args)
+    public static void Rodar()
     {
         bool numValido = false;
         // Pegando a cor dos textos do console atual
