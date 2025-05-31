@@ -19,6 +19,9 @@ class Program
             Console.WriteLine("Preencher vetor digite: 2");
             Console.WriteLine("Soma e média digite: 3");
 
+            opcao = int.Parse(Console.ReadLine());
+            Console.Clear();
+
             switch (opcao)
             {
                 case 0:
@@ -37,8 +40,11 @@ class Program
                     Programa04.SomaNumeros.Rodar();
                     break;
 
-                    
+
             }
+            Console.ReadKey();
+            Console.Clear();
+
         }
     }
 }
